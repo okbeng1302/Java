@@ -1,3 +1,9 @@
+/*
+*
+* @desc:获取字符串中的 数字
+*
+*/
+
 public class getRexNum {
     public String getUrlId(String param) {
 	String regEx="[^0-9]"; 
